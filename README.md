@@ -22,7 +22,7 @@ I design, build, and ship **AI systems that run real businesses** — LLM-powere
 | System | What it does | Stack |
 |---|---|---|
 | **[PrevenSalud AI CRM](https://crm.prevensalud.pe)** | AI-powered CRM: contextual LLM assistant, OCR invoice processing, automated PDF reporting, operational AI workflows. Runs daily business ops. | Python · FastAPI · PostgreSQL · LLM APIs · RAG · OCR · n8n · Next.js |
-| **[Plataforma de Bienestar](#)** | Mobile wellness platform with an **AI orchestrator** — users perform every app action through a chat assistant. | React Native · Python · Supabase · LLM agents · Document AI |
+| **[Plataforma de Bienestar](https://github.com/Juanllenato/plataforma-bienestar-ai)** | Mobile wellness platform with an **agentic AI coach** — users operate every app action through a chat assistant that orchestrates 13 tools (RAG, vision, projection). | React Native · FastAPI · pgvector · LLM tool calling · Vision |
 | **[PrevenSalud](https://prevensalud.pe)** | Production healthcare platform. Full build, deploy & operation. | WordPress · Custom Astra child theme · PHP |
 | **[Grupo Alianza Vital](https://grupoalianzavital.com)** | Corporate platform with operational backend & automations. | WordPress · Custom theme · Automation |
 | **[Pontebela](https://pontebela.com.co)** · [@pontebelasupps](https://instagram.com/pontebelasupps) | E-commerce platform & digital infrastructure for a supplements brand. | E-commerce · Automation |
