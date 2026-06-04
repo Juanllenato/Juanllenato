@@ -11,7 +11,8 @@
 
 I design, build, and ship **AI systems that run real businesses** — LLM-powered assistants, OCR document pipelines, and automation workflows that replace manual processes end-to-end. My edge isn't notebooks or course projects; it's **software live in production with real users**.
 
-🧠 **What I build:** contextual LLM assistants · RAG over business data · OCR / document AI · AI automation · backend systems · full-stack & mobile apps
+🧠 **What I build:** contextual LLM assistants · RAG over business data · OCR / document AI · agentic tool-calling · AI automation · backend systems · full-stack & mobile apps
+🏗️ **How I build:** multi-tenant architecture (RLS) · async APIs · distributed rate-limiting · graceful degradation · **eval-first** (versioned datasets + CI gating) · containerized deployment
 🎯 **Open to:** remote **AI Engineer / Applied AI / GenAI Engineer** roles with international teams
 🎓 Degree in Systems Development Engineering — but my real credential is what's shipped below.
 
@@ -47,11 +48,23 @@ I design, build, and ship **AI systems that run real businesses** — LLM-powere
 
 ---
 
-## 📌 Featured
+## 📌 Pinned case studies
 
-- 🧾 **OCR Invoice Pipeline** — turning unstructured invoices into structured, actionable accounting data
-- 🤖 **Contextual AI Assistant** — answering operational questions over live customer / finance / employee data
-- ⚙️ **AI Automation Workflows** — n8n + custom engines replacing manual ops end-to-end
+| Repo | What it shows |
+|---|---|
+| [**prevensalud-ai-crm**](https://github.com/Juanllenato/prevensalud-ai-crm) | Production AI CRM — LLM assistant (RAG), OCR pipeline, automated reporting · architecture & diagrams |
+| [**plataforma-bienestar-ai**](https://github.com/Juanllenato/plataforma-bienestar-ai) | Agentic AI coach — 13-tool orchestration (LangGraph-portable), RAG, vision |
+| [**n8n-workflows**](https://github.com/Juanllenato/n8n-workflows) | Enterprise AI automations — decisioning, human-in-the-loop approvals |
+| [**llm-eval-harness**](https://github.com/Juanllenato/llm-eval-harness) | LLM evaluation & observability — metrics, LLM-judge, CI gating |
+
+---
+
+## 📊 GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Juanllenato&show_icons=true&hide_border=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanllenato&layout=compact&hide_border=true&theme=tokyonight" height="160" />
+</p>
 
 ---
 
@@ -59,7 +72,7 @@ I design, build, and ship **AI systems that run real businesses** — LLM-powere
 
 <p align="left">
   <a href="https://crm.prevensalud.pe"><img src="https://img.shields.io/badge/Live%20Demo-crm.prevensalud.pe-6C2BD9?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/juan-perez-ai-engineer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 > *"I turn LLMs into production systems that run real businesses."*
