@@ -7,6 +7,13 @@
   <img src="https://img.shields.io/badge/Open%20to-Remote%20Roles-22C55E?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <a href="https://juan-perez-ai.vercel.app"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-juan--perez--ai.vercel.app-7C3AED?style=for-the-badge" /></a>
+  <a href="https://juan-perez-ai.vercel.app"><img src="https://img.shields.io/badge/💬_Talk_to_my_AI-Agentic_assistant-0EA5E9?style=for-the-badge" /></a>
+</p>
+
+> 🌐 **Live portfolio with an agentic AI assistant** (voice + can email me): **[juan-perez-ai.vercel.app](https://juan-perez-ai.vercel.app)** — don't just read about my work, *talk to my AI about it*.
+
 ---
 
 I design, build, and ship **AI systems that run real businesses** — LLM-powered assistants, OCR document pipelines, and automation workflows that replace manual processes end-to-end. My edge isn't notebooks or course projects; it's **software live in production with real users**.
